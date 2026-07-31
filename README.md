@@ -33,6 +33,13 @@ Stylie generates personalized recommendations
 
 # Future Improvements
 
+- Glasses detection and shape recommendations 
+- Facial landmark detection
+- Makeup recommendations
+- Clothing recommendations
+- Mobile application
+- Web application
+
 # License 
 
 MIT License 
